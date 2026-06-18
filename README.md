@@ -2,13 +2,13 @@
 
 Welcome to the Cognizant Digital Nurture 5.0 (DN5) comprehensive learning repository. This repository contains two major learning tracks designed to build foundational and advanced technical skills.
 
-## 📚 Repository Overview
+## Repository Overview
 
 This repository is structured to support a complete learning journey covering foundational technologies through advanced enterprise-level concepts. Each topic includes structured notes, hands-on exercises, and practical assignments.
 
 ---
 
-## 🎯 Learning Tracks
+## Learning Tracks
 
 ### 1. **DN5-Upskilling** 
 Foundation Track - Building Core Technical Competencies
@@ -42,7 +42,7 @@ The deep skilling track builds upon foundations to cover enterprise architecture
 
 ---
 
-## 📖 Repository Structure
+## Repository Structure
 
 ```
 Cognizant-DN5/
@@ -78,32 +78,8 @@ Cognizant-DN5/
     └── Git-CICD/
 ```
 
----
 
-## 📊 Progress Tracker
-
-| Track | Module | Status | Completion Date | Notes |
-|-------|--------|--------|-----------------|-------|
-| **Upskilling** |||||
-| | HTML5 | Not Started | - | - |
-| | CSS3 | Not Started | - | - |
-| | JavaScript | Not Started | - | - |
-| | SQL | Not Started | - | - |
-| | C# | Not Started | - | - |
-| **DeepSkilling** |||||
-| | Design Patterns | Not Started | - | - |
-| | DSA | Not Started | - | - |
-| | Advanced SQL | Not Started | - | - |
-| | Entity Framework Core | Not Started | - | - |
-| | ASP.NET Core Web API | Not Started | - | - |
-| | Microservices | Not Started | - | - |
-| | Angular | Not Started | - | - |
-| | Docker | Not Started | - | - |
-| | Git & CI/CD | Not Started | - | - |
-
----
-
-## 📝 How to Use This Repository
+## How to Use This Repository
 
 ### For Each Module:
 
@@ -129,7 +105,7 @@ Cognizant-DN5/
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### **Upskilling Track Technologies**
 - HTML5, CSS3, JavaScript
@@ -154,7 +130,7 @@ Cognizant-DN5/
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 ### Recommended External Resources:
 
@@ -184,16 +160,16 @@ Cognizant-DN5/
 
 ## 🎓 Success Criteria
 
-- ✅ Complete all module notes
-- ✅ Finish all hands-on exercises
-- ✅ Submit all assignments with quality code
-- ✅ Build mini-projects demonstrating mastery
-- ✅ Maintain clean, documented code
-- ✅ Contribute to learning community
+-  Complete all module notes
+-  Finish all hands-on exercises
+-  Submit all assignments with quality code
+-  Build mini-projects demonstrating mastery
+-  Maintain clean, documented code
+-  Contribute to learning community
 
 ---
 
-## 📌 Quick Start
+##  Quick Start
 
 1. **Clone this repository:**
    ```bash
@@ -211,37 +187,3 @@ Cognizant-DN5/
 
 ---
 
-## 🤝 Contributing
-
-Feel free to:
-- Add additional resources to the Notes.md files
-- Share solutions and best practices
-- Help others with questions in assignments
-- Suggest improvements to the learning structure
-
----
-
-## 📞 Support & Questions
-
-For questions or clarifications:
-- Review the module's Notes.md and References section
-- Check the HandsOn examples
-- Refer to external resources linked in this README
-- Consult with peers and mentors
-
----
-
-## 📜 License
-
-This learning material is created for educational purposes within the Cognizant Digital Nurture program.
-
----
-
-## 🎉 Let's Begin Your Learning Journey!
-
-**Remember:** 
-> *"The expert in anything was once a beginner." - Helen Hayes*
-
-Start small, be consistent, and celebrate your progress. Each module completed is a step towards mastery.
-
-**Last Updated:** June 2026
