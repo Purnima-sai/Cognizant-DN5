@@ -1,28 +1,26 @@
 # Angular - Comprehensive Notes
 
-## 📌 Overview
+## Overview
 
 Angular is a comprehensive TypeScript-based framework for building robust, scalable, and maintainable single-page applications (SPAs). It provides a complete solution with components, services, routing, forms, and HTTP client for modern web development.
-
 **Key Point:** Angular enables building enterprise-grade, feature-rich web applications with strong tooling and best practices.
-
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this module, you will:
-- [ ] Understand Angular architecture and components
-- [ ] Master data binding and directives
-- [ ] Implement services and dependency injection
-- [ ] Build reactive forms with validation
-- [ ] Implement routing and navigation
-- [ ] Handle HTTP requests
-- [ ] Understand state management basics
-- [ ] Deploy Angular applications
+-Understand Angular architecture and components
+-Master data binding and directives
+-Implement services and dependency injection
+-Build reactive forms with validation
+-Implement routing and navigation
+-Handle HTTP requests
+-Understand state management basics
+-Deploy Angular applications
 
 ---
 
-## 📚 Core Concepts Learned
+## Core Concepts Learned
 
 ### 1. **Components & Templates**
 
@@ -364,7 +362,7 @@ const routes: Routes = [
 
 ---
 
-## 💻 Hands-On Exercises
+## Hands-On Exercises
 
 ### Exercise 1: Create Components
 **Task:** Build a component with input and output properties
@@ -383,28 +381,6 @@ const routes: Routes = [
 
 ---
 
-## 📝 Assignments
-
-1. **Blog Application**
-   - List posts, view details
-   - Create/edit posts
-   - Comment functionality
-   - Authentication
-
-2. **User Management Dashboard**
-   - User list with pagination
-   - Add/edit/delete users
-   - Search and filter
-   - Role-based access
-
-3. **E-Commerce Frontend**
-   - Product catalog
-   - Shopping cart
-   - Checkout process
-   - Order tracking
-
----
-
 ## 🔗 References
 
 ### Official:
@@ -420,28 +396,3 @@ const routes: Routes = [
 - Angular DevTools browser extension
 
 ---
-
-## 📋 Personal Notes
-
-**Date Started:** _______________
-**Topics Mastered:**
-- [ ] Components
-- [ ] Data Binding
-- [ ] Services
-- [ ] Reactive Forms
-- [ ] Routing
-- [ ] HTTP Client
-- [ ] RxJS Observables
-
-**Challenges Faced:**
-_________________________________
-_________________________________
-
-**Key Takeaways:**
-_________________________________
-_________________________________
-
----
-
-**Last Updated:** June 2026
-**Completion Status:** Not Started
