@@ -1,0 +1,34 @@
+angular.json
+Purpose: Configures Angular workspace settings, build options, serve options and project configurations.
+
+tsconfig.json
+Purpose: Base TypeScript configuration used across the project.
+
+tsconfig.app.json
+Purpose: TypeScript compiler settings specifically for the Angular application.
+
+package.json
+Purpose: Contains project metadata, dependencies, scripts and package configurations.
+
+src/main.ts
+Purpose: Entry point of the Angular application that bootstraps the root application configuration.
+
+src/app/app.config.ts
+Purpose: Defines application-wide providers and configuration for standalone Angular applications.
+
+src/app/app.ts
+Purpose: Root component containing the main application logic and UI structure.
+
+src/index.html
+Purpose: Main HTML page that hosts the Angular application in the browser.
+
+Budget Configuration
+
+maximumWarning: 500kB
+If the initial application bundle exceeds 500kB, Angular displays a warning during the build.
+
+maximumError: 1MB
+If the initial application bundle exceeds 1MB, Angular stops the build and throws an error.
+
+Purpose:
+These limits help monitor bundle size and prevent the application from becoming too large, which could affect loading performance.
