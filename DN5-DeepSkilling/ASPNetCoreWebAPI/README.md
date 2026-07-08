@@ -27,4 +27,4 @@ Then open `https://localhost:<port>/swagger` (project 1, 3, 4, 5, 6) or `https:/
 - Project 6's API key (`DEMO-API-KEY-12345`) must be sent in the `X-Api-Key` header for any request other than `/swagger`.
 
 ## Author
-Kakumanu Venkata Sadwik — B.Tech CSE, VFSTR
+Purnima Sai - Btech CSE
