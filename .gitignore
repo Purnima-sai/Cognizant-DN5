@@ -81,7 +81,6 @@ e2e/
 *.ndf
 *.ibd
 *.ibdata1
-*.sql
 *.sqlite
 *.sqlite3
 *.db
